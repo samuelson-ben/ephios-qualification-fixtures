@@ -10,7 +10,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "cc5ab73d-a1d6-4e95-93d2-aaf6c51ae91f",
@@ -21,7 +22,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "f96bdfef-f1b8-46aa-8755-e506075ebc88",
@@ -35,7 +37,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "d7e9da8f-8386-4e7d-8706-62103bfe78f1",
@@ -50,7 +53,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "fe06530c-8216-40a0-81dd-2beaa8d803e1",
@@ -65,7 +69,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "4ff00daa-1501-41c0-8d89-2e54cb43f293",
@@ -78,7 +83,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "0715b687-877a-4fed-bde0-5ea06b1043fc",
@@ -96,7 +102,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "31529f69-09d7-44cc-84f6-19fbfd949faa",
@@ -112,7 +119,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "c9898e6c-4ecf-4781-9c0a-884861e36a81",
@@ -128,7 +136,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": 5
   },
   {
     "uuid": "2d2fc932-5206-4c2c-bb63-0bc579acea6f",
@@ -143,7 +152,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": 5
   },
   {
     "uuid": "f5e3be89-59de-4b13-a92f-5949009f62d8",
@@ -159,7 +169,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": 5
   },
   {
     "uuid": "736ca05a-7ff9-423a-9fa4-8b4641fde29c",
@@ -173,7 +184,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": 5
   },
   {
     "uuid": "3df818c6-f4a7-400e-a5bf-64ed087f79ab",
@@ -189,7 +201,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": 5
   },
   {
     "uuid": "3238a892-afa8-4e76-b9b9-87d8765c5b72",
@@ -204,7 +217,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": 5
   },
   {
     "uuid": "5d0ab40e-fade-4d45-9882-0039118a2445",
@@ -220,7 +234,8 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": 5
   },
   {
     "uuid": "64495d88-3ec0-4bbe-bc2b-78b6e6cfbc25",
@@ -234,6 +249,7 @@
     "category": {
       "uuid": "a5669cc2-7444-4046-8c33-d8ee0bbf881b",
       "title": "Führerschein"
-    }
+    },
+    "expiration_time_years": 5
   }
 ]

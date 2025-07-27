@@ -10,7 +10,8 @@
     "category": {
       "uuid": "47d92afc-d650-4a98-a0a4-e40a2c5fa723",
       "title": "Tauchen"
-    }
+    },
+    "expiration_time_years": 2
   },
   {
     "uuid": "52fc6a88-6e56-4af5-8021-b8a6412f405c",
@@ -25,7 +26,8 @@
     "category": {
       "uuid": "47d92afc-d650-4a98-a0a4-e40a2c5fa723",
       "title": "Tauchen"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "481fc9fb-e90a-4b83-8a07-456034aa0a33",
@@ -40,7 +42,8 @@
     "category": {
       "uuid": "47d92afc-d650-4a98-a0a4-e40a2c5fa723",
       "title": "Tauchen"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "a3c5a3a0-f577-4bf5-8b2f-84108022d793",
@@ -53,6 +56,7 @@
     "category": {
       "uuid": "47d92afc-d650-4a98-a0a4-e40a2c5fa723",
       "title": "Tauchen"
-    }
+    },
+    "expiration_time_years": null
   }
 ]

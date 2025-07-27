@@ -13,7 +13,8 @@
     "category": {
       "uuid": "93574a61-1a6e-4dd5-8df3-40e8c51b693f",
       "title": "Wasserrettung (DLRG)"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "bd7ca398-ed2a-4e97-b681-bc8fb1138ada",
@@ -28,7 +29,8 @@
     "category": {
       "uuid": "93574a61-1a6e-4dd5-8df3-40e8c51b693f",
       "title": "Wasserrettung (DLRG)"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "e1c1fac1-146d-4a52-935e-36455bcf0f87",
@@ -43,7 +45,8 @@
     "category": {
       "uuid": "93574a61-1a6e-4dd5-8df3-40e8c51b693f",
       "title": "Wasserrettung (DLRG)"
-    }
+    },
+    "expiration_time_years": 2
   },
   {
     "uuid": "9c506e7e-a456-4f22-8027-5365ab7dc58c",
@@ -56,7 +59,8 @@
     "category": {
       "uuid": "93574a61-1a6e-4dd5-8df3-40e8c51b693f",
       "title": "Wasserrettung (DLRG)"
-    }
+    },
+    "expiration_time_years": 2
   },
 
   {
@@ -72,7 +76,8 @@
     "category": {
       "uuid": "93574a61-1a6e-4dd5-8df3-40e8c51b693f",
       "title": "Wasserrettung (DLRG)"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "c3d2e1f0-9a8b-4c7d-8e6f-5b4c3a2d1e0f",
@@ -86,6 +91,7 @@
     "category": {
       "uuid": "93574a61-1a6e-4dd5-8df3-40e8c51b693f",
       "title": "Wasserrettung (DLRG)"
-    }
+    },
+    "expiration_time_years": null
   }
 ]

@@ -11,7 +11,8 @@
     "category": {
       "uuid": "50380292-b9c9-4711-b70d-8e03e2784cfb",
       "title": "Notfallmedizin"
-    }
+    },
+    "expiration_time_years": 2
   },
   {
     "uuid": "cdb595e8-1dcb-46d2-8013-b915f818b321",
@@ -26,7 +27,8 @@
     "category": {
       "uuid": "50380292-b9c9-4711-b70d-8e03e2784cfb",
       "title": "Notfallmedizin"
-    }
+    },
+    "expiration_time_years": 4
   },
   {
     "uuid": "3fc86c78-2b87-49f7-8721-af7f8d51747c",
@@ -41,7 +43,8 @@
     "category": {
       "uuid": "50380292-b9c9-4711-b70d-8e03e2784cfb",
       "title": "Notfallmedizin"
-    }
+    },
+    "expiration_time_years": 4
   },
   {
     "uuid": "b1faab38-2e7c-4507-b753-06d1e653412d",
@@ -57,7 +60,8 @@
     "category": {
       "uuid": "50380292-b9c9-4711-b70d-8e03e2784cfb",
       "title": "Notfallmedizin"
-    }
+    },
+    "expiration_time_years": 2
   },
   {
     "uuid": "de6c2449-a764-4c39-8f44-de276e99451b",
@@ -72,7 +76,8 @@
     "category": {
       "uuid": "50380292-b9c9-4711-b70d-8e03e2784cfb",
       "title": "Notfallmedizin"
-    }
+    },
+    "expiration_time_years": 2
   },
   {
     "uuid": "0b41fac6-ca9e-4b8a-82c5-849412187351",
@@ -87,7 +92,8 @@
     "category": {
       "uuid": "50380292-b9c9-4711-b70d-8e03e2784cfb",
       "title": "Notfallmedizin"
-    }
+    },
+    "expiration_time_years": 2
   },
   {
     "uuid": "2a24e395-fa02-4b2e-8215-7763b04d85c8",
@@ -102,7 +108,8 @@
     "category": {
       "uuid": "50380292-b9c9-4711-b70d-8e03e2784cfb",
       "title": "Notfallmedizin"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "d114125b-7cf4-49e2-8908-f93e2f95dfb8",
@@ -115,7 +122,8 @@
     "category": {
       "uuid": "50380292-b9c9-4711-b70d-8e03e2784cfb",
       "title": "Notfallmedizin"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "cb4f4ebc-3adf-4d32-a427-0ac0f686038a",
@@ -130,6 +138,7 @@
     "category": {
       "uuid": "50380292-b9c9-4711-b70d-8e03e2784cfb",
       "title": "Notfallmedizin"
-    }
+    },
+    "expiration_time_years": null
   }
 ]

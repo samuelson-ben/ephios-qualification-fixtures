@@ -8,7 +8,8 @@
     "category": {
       "uuid": "368fb612-f8c5-476a-a4e7-1478996a8ab3",
       "title": "Funk"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "4974ea66-2086-4987-958b-503de21a285a",
@@ -19,7 +20,8 @@
     "category": {
       "uuid": "368fb612-f8c5-476a-a4e7-1478996a8ab3",
       "title": "Funk"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "e8ff96da-0dd3-4664-9b9d-3c4abc1f40de",
@@ -30,7 +32,8 @@
     "category": {
       "uuid": "368fb612-f8c5-476a-a4e7-1478996a8ab3",
       "title": "Funk"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "80946d2f-cbec-4e2e-9456-b4b9ce3b7fbc",
@@ -41,7 +44,8 @@
     "category": {
       "uuid": "368fb612-f8c5-476a-a4e7-1478996a8ab3",
       "title": "Funk"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "570894f3-c8cd-4663-a0ed-f1fde78f3d64",
@@ -54,7 +58,8 @@
     "category": {
       "uuid": "368fb612-f8c5-476a-a4e7-1478996a8ab3",
       "title": "Funk"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "c4a86388-45b8-4886-929f-8978df9d4ede",
@@ -65,6 +70,7 @@
     "category": {
       "uuid": "368fb612-f8c5-476a-a4e7-1478996a8ab3",
       "title": "Funk"
-    }
+    },
+    "expiration_time_years": null
   }
 ]

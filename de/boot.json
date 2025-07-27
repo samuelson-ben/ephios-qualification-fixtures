@@ -11,7 +11,8 @@
     "category": {
       "uuid": "075a41a1-b84d-4e44-9eb1-60fcbac60c42",
       "title": "Boot"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "ba9e2922-0c71-4ca2-8a11-9a3152335e57",
@@ -25,7 +26,8 @@
     "category": {
       "uuid": "075a41a1-b84d-4e44-9eb1-60fcbac60c42",
       "title": "Boot"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "7ec0c9e2-f211-4370-b796-e309f3e9b448",
@@ -38,7 +40,8 @@
     "category": {
       "uuid": "075a41a1-b84d-4e44-9eb1-60fcbac60c42",
       "title": "Boot"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "1ba25ee1-fa88-4d44-9416-3a024caa6daf",
@@ -51,7 +54,8 @@
     "category": {
       "uuid": "075a41a1-b84d-4e44-9eb1-60fcbac60c42",
       "title": "Boot"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "60922f24-2f82-4591-88d7-2f43d47e33d0",
@@ -64,7 +68,8 @@
     "category": {
       "uuid": "075a41a1-b84d-4e44-9eb1-60fcbac60c42",
       "title": "Boot"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "c027f2bf-a185-4337-845a-2c3bf3c0da19",
@@ -77,6 +82,7 @@
     "category": {
       "uuid": "075a41a1-b84d-4e44-9eb1-60fcbac60c42",
       "title": "Boot"
-    }
+    },
+    "expiration_time_years": null
   }
 ]

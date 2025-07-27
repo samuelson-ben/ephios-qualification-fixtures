@@ -10,7 +10,8 @@
     "category": {
       "uuid": "a5b043df-6551-45fa-ba67-0bb21d610364",
       "title": "Medizinische Berufe"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "46aa6671-ac7f-48cf-8f06-b537908d40c9",
@@ -23,7 +24,8 @@
     "category": {
       "uuid": "a5b043df-6551-45fa-ba67-0bb21d610364",
       "title": "Medizinische Berufe"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "9a42481f-65b2-4b5e-b882-b1baf4619898",
@@ -36,7 +38,8 @@
     "category": {
       "uuid": "a5b043df-6551-45fa-ba67-0bb21d610364",
       "title": "Medizinische Berufe"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "f03a4d30-a7c4-43fa-b189-92a49a9c1b3a",
@@ -47,7 +50,8 @@
     "category": {
       "uuid": "a5b043df-6551-45fa-ba67-0bb21d610364",
       "title": "Medizinische Berufe"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "e8126ae1-6a76-47b6-89d3-5d33c3db12c9",
@@ -58,7 +62,8 @@
     "category": {
       "uuid": "a5b043df-6551-45fa-ba67-0bb21d610364",
       "title": "Medizinische Berufe"
-    }
+    },
+    "expiration_time_years": null
   },
   {
     "uuid": "21f8699a-6065-400a-b059-8521a64c72c8",
@@ -69,6 +74,7 @@
     "category": {
       "uuid": "a5b043df-6551-45fa-ba67-0bb21d610364",
       "title": "Medizinische Berufe"
-    }
+    },
+    "expiration_time_years": null
   }
 ]

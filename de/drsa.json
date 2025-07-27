@@ -10,7 +10,8 @@
     "category": {
       "uuid": "cd10e68f-41fe-4ca0-a624-3ab3eb85bd08",
       "title": "Rettungsschwimmabzeichen"
-    }
+    },
+    "expiration_time_years": 2
   },
   {
     "uuid": "ef95a854-2eeb-431c-a795-bc291b341d49",
@@ -26,7 +27,8 @@
     "category": {
       "uuid": "cd10e68f-41fe-4ca0-a624-3ab3eb85bd08",
       "title": "Rettungsschwimmabzeichen"
-    }
+    },
+    "expiration_time_years": 2
   },
   {
     "uuid": "b601a18b-cee8-4037-af33-dd7aabeac295",
@@ -39,6 +41,7 @@
     "category": {
       "uuid": "cd10e68f-41fe-4ca0-a624-3ab3eb85bd08",
       "title": "Rettungsschwimmabzeichen"
-    }
+    },
+    "expiration_time_years": 2
   }
 ]
