@@ -10,7 +10,9 @@
       "uuid": "605f7761-73df-4b41-a992-19a765f4bf49",
       "title": "Taktisch"
     },
-    "includes": [],
+    "includes": [
+      "b7c0d6f1-2a3e-4f5b-8c9d-2f3e4b5c6d7e"
+    ],
     "included_by": []
   },
   {
@@ -94,7 +96,7 @@
   {
     "uuid": "d47938f7-8138-4356-8960-1f6ed3fb2ccf",
     "title": "Fachberater*in",
-    "abbreviation": "Fachb",
+    "abbreviation": "Fa-Be",
     "default_expiration_time": {
       "type": "no_expiration"
     },
