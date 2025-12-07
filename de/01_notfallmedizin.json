@@ -4,7 +4,7 @@
     "title": "Ersthelfer*in",
     "abbreviation": "EH",
     "default_expiration_time": {
-      "type": "after_x_years",
+      "type": "after_years",
       "years": 2
     },
     "includes": [],
@@ -22,7 +22,7 @@
     "title": "Sanitäter*in A",
     "abbreviation": "San A",
     "default_expiration_time": {
-      "type": "after_x_years",
+      "type": "after_years",
       "years": 4
     },
     "includes": [
@@ -41,7 +41,7 @@
     "title": "Sanitäter*in B",
     "abbreviation": "San B",
     "default_expiration_time": {
-      "type": "after_x_years",
+      "type": "after_years",
       "years": 4
     },
     "includes": [
@@ -60,7 +60,7 @@
     "title": "Sanitätshelfer*in",
     "abbreviation": "SanH",
     "default_expiration_time": {
-      "type": "after_x_years",
+      "type": "after_years",
       "years": 4
     },
     "includes": [
