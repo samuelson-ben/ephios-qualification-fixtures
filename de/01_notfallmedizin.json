@@ -4,8 +4,9 @@
     "title": "Ersthelfer*in",
     "abbreviation": "EH",
     "default_expiration_time": {
-      "type": "after_years",
-      "years": 2
+      "day": null,
+      "month": null,
+      "years": "+2"
     },
     "includes": [],
     "included_by": [
@@ -22,8 +23,9 @@
     "title": "Sanitäter*in A",
     "abbreviation": "San A",
     "default_expiration_time": {
-      "type": "after_years",
-      "years": 4
+      "day": null,
+      "month": null,
+      "years": "+4"
     },
     "includes": [
       "8bdb343e-d78d-4cc9-80e7-7ccc36b556e1"
@@ -41,8 +43,9 @@
     "title": "Sanitäter*in B",
     "abbreviation": "San B",
     "default_expiration_time": {
-      "type": "after_years",
-      "years": 4
+      "day": null,
+      "month": null,
+      "years": "+4"
     },
     "includes": [
       "cdb595e8-1dcb-46d2-8013-b915f818b321"
@@ -60,8 +63,9 @@
     "title": "Sanitätshelfer*in",
     "abbreviation": "SanH",
     "default_expiration_time": {
-      "type": "after_years",
-      "years": 4
+      "day": null,
+      "month": null,
+      "years": "+4"
     },
     "includes": [
       "8bdb343e-d78d-4cc9-80e7-7ccc36b556e1",
@@ -80,7 +84,9 @@
     "title": "Rettungshelfer*in",
     "abbreviation": "RH",
     "default_expiration_time": {
-      "type": "no_expiration"
+      "day": null,
+      "month": null,
+      "years": null
     },
     "includes": [
       "b1faab38-2e7c-4507-b753-06d1e653412d"
@@ -98,7 +104,9 @@
     "title": "Rettungssanitäter*in",
     "abbreviation": "RettSan",
     "default_expiration_time": {
-      "type": "no_expiration"
+      "day": null,
+      "month": null,
+      "years": null
     },
     "includes": [
       "de6c2449-a764-4c39-8f44-de276e99451b"
@@ -116,7 +124,9 @@
     "title": "Rettungsassistent*in",
     "abbreviation": "RA",
     "default_expiration_time": {
-      "type": "no_expiration"
+      "day": null,
+      "month": null,
+      "years": null
     },
     "includes": [
       "0b41fac6-ca9e-4b8a-82c5-849412187351"
@@ -134,7 +144,9 @@
     "title": "Notfallsanitäter*in",
     "abbreviation": "NFS",
     "default_expiration_time": {
-      "type": "no_expiration"
+      "day": null,
+      "month": null,
+      "years": null
     },
     "includes": [
       "2a24e395-fa02-4b2e-8215-7763b04d85c8"
@@ -150,7 +162,9 @@
     "title": "Notärzt*in",
     "abbreviation": "NA",
     "default_expiration_time": {
-      "type": "no_expiration"
+      "day": null,
+      "month": null,
+      "years": null
     },
     "includes": [
       "bfcc1988-9708-4422-aacb-d08f39fec54e"
